@@ -1,0 +1,80 @@
+p#michalak {
+    color:#ff0000;
+    font-size:0.8cm;
+    text-align:center;
+    }
+#z1_michalak
+{
+font-family:serif;
+color: #CD5C5C;
+text-decoration: overline;
+font-weight:500;
+font-size:small;
+text-indent:28mm;
+line-height:2cm;
+word-spacing:10px;
+letter-spacing:2ex;
+}
+#z2_michalak
+{
+font-family:serif;
+color:rgb(240,128,128);
+font-style:italic; 
+text-transform:uppercase; 
+font-weight:600;
+font-size:medium;
+text-indent:28mm;
+line-height:2cm;
+word-spacing:10px;
+letter-spacing:2ex;
+}
+#z3_michalak
+{
+font-family:serif;  
+color:#DC143C;
+font-variant:small-caps;
+font-weight:700;
+font-size:xx-large;
+text-indent:28mm;
+line-height:2cm;
+word-spacing:10px;
+letter-spacing:2ex;
+}
+#z4_michalak
+{
+font-family:sans-serif;
+color:#FFA07A;
+text-decoration:line-through ;
+color:#FFA07A;
+font-weight:300;
+font-size:11px;
+text-indent:3cm;
+line-height:20mm;
+word-spacing:10pt;
+letter-spacing:0.25cm;
+}
+#z5_michalak
+{
+font-family:sans-serif;
+color:#FF4500;
+text-transform: capitalize;
+font-weight:600;
+font-size:0.7in;
+text-indent:3cm;
+line-height:20mm;
+word-spacing:10pt;
+letter-spacing:0.25cm;
+}
+#z6_michalak
+{
+font-family:sans-serif;
+color:#FF8C00;
+font-style:oblique; 
+font-weight:800;
+font-size:1em;
+text-indent:3cm;
+line-height:20mm;
+word-spacing:10pt;
+letter-spacing:0.25cm;
+
+}

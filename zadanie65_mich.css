@@ -1,0 +1,46 @@
+body{
+background-color:silver;
+}
+
+p:first-child{
+	font-size:7mm;
+	font-style:italic;
+}
+
+p{
+	font-size:11pt;
+}
+
+div#pierwszy_michalak{
+	width:776pt;
+	margin-left:auto;
+	margin-right:auto;
+	background-color:rgb(0,255,125);
+	border: solid 3px black;
+	border-top-right-radius:12px;
+	border-top-left-radius:12px;
+	border-bottom-right-radius:12px;
+	border-bottom-left-radius:12px
+}
+
+div#drugi_michalak{
+	width:976pt;
+	margin-left:auto;
+	margin-right:auto;
+	background-color:rgb(0,200,255);
+	border: solid 5px rgb(0,0,128);
+	border-top-right-radius:15px;
+	border-top-left-radius:15px;
+	border-bottom-right-radius:15px;
+	border-bottom-left-radius:15px;
+}
+
+div#trzeci_michalak{
+	width:1176pt;
+	background-color:rgb(255,200,200);
+	border: solid 5px rgb(255,0,255);
+	border-top-right-radius: 9px;
+	border-top-left-radius:9px;
+	border-bottom-right-radius:9px;
+	border-bottom-left-radius:9px;
+}

@@ -1,0 +1,21 @@
+p{
+
+font-size:5mm;
+color:gold;
+}
+p:lang(pl)
+{
+font-size: 6mm;
+font-weight:bold;
+color:yellow;
+}
+p:lang(en)
+{
+color:red;
+font-style:italic;
+font-size:10 mm;
+}
+
+body{
+	background-color:gray;
+}

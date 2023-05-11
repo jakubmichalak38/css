@@ -1,0 +1,42 @@
+<html>
+
+<head>
+<link rel="stylesheet" type="text/css" href="syku_z65.css" />
+</head>
+
+<body>
+
+<div id="pierwszy_sykutera"><p>Pierwszy akapit/pierwszy DIV--> sykutera<br>nazwa ID akapitu id="pierwszy_sykutera"</p>
+<p>Drugi akapit/pierwszy DIV<br>
+pierwszy akapit -->p:first-child {font-size:10pt;font-style:italic;}<br>
+bo numer parzysty w dzienniku<br>
+pozostałe akapity--> p{font-size:9mm} bo numer parzysty<br>
+szerokość bloku = 700+24*4=796<br>
+pierwszt DIV--> kolor jasno zielony</p>
+
+<p>trzaeci akapit/pierwszy DIV<br>
+pierwszy DIV--> obramowanie granatowe DIV
+pierwszy DIV--> obramowanie grubość 12px
+pierwszy DIV--> r1=7px+5(Jarek)=12px</p>
+</div>
+<div id="drugi_sykutera"><p>Pierwszy akapit/drugi DIV--> Jarek <br> nazwa ID akapitu id="drugi_sykutera"</p>
+<p>Drugi akapit/drugi DIV <br>
+drugi DIV--> kolor jasny niebieski</p>
+
+<p>trzeci akapit/drugi DIV<br>
+drugi DIV-->obramowanie czarne DIV<br>
+drugi DIV-->obramowanie grubość 15px,ciagłę (solid)<br>
+drugi DIV-->r2=7px+8px(sykutera)</p>
+</div>
+<div id="trzeci_sykutera"><p>Pierwszy akapit/trzeci DIV--> klasas ucznia 1P nazwa ID akapitu id="trzeci_sykutera"</p>
+<p>Drugi akapit/trzeci Div<br>
+pierwszy Div--> kolor różowy</p>
+
+<p>trzeci akapit/trzeci Div(solid)<br>
+trzeci DIV--> obramowanie fioletowy DIV<br>
+trzeci DIV--> obramowanie grubość 15px ciagłe(solid)<br>
+trzeci DIV-->r3=7px+8px=15px (sierpien)</p>
+</div>
+</body>
+
+</html>

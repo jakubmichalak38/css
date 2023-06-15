@@ -1,0 +1,47 @@
+<textarea cols="100" rows="100">
+<html>
+  <head>
+    <style>
+		table {
+		  border: 7px black solid;
+          color: lightblue;
+          font-size: 40px;
+		}
+		td{
+          border: 5px RED solid;
+			}
+</style>
+  </head>
+
+		<body>
+		 <center><table>
+			<tr> 
+			<td colspan="2" style="background:linear-gradient(white,black);"><center>Michalak</center>
+			</td>
+			
+			</tr>
+			<tr>
+			  <td style="background:linear-gradient(white,red);">style="background:linear-<BR>gradient(white,red);"</td>
+			  <td style="background:linear-gradient(to right, red, orange, yellow, lime, blue, purple, fuchsia)">style="background:linear-gradient(to<br> right, red, orange, yellow, lime, blue,<br> purple, fuchsia)"</td>
+			</tr>
+			
+			<tr>
+			  <td style="background: radial-gradient(circle, blue,red,yellow);">style="background: radial-<br>gradient(circle, blue,red,yellow);"</td>
+			  <td style="background:radial-gradient(ellipse 66% 33% at right top, white, red 75%,silver);"> style="background:radial-gradient(ellipse<br> 66% 33% at right top, white, red 75%,silver);"</td>
+			</tr>
+			<tr> 
+			<td colspan="2" style="background:radial-gradient(ellipse 83% 65% at right top, green, blue 94%,orange);">style="background:radial-gradient(ellipse 66% 33% at right top, white, red 75%,silver);"
+			</td>
+			
+			</tr>
+		
+			
+		</table>
+		</CENTER>
+		
+		
+		
+		</body>
+</html>
+<!--Jakub Michalak-->
+</textarea>
